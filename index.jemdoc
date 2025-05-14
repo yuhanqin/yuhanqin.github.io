@@ -1,0 +1,44 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Yuhan Qin - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/photo.jpg}{}{126}{}{}
+= Yuhan Qin
+
+*Ph.D. student*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Email*:yuhanqin99\[at\]gmail.com \n
+~~~
+
+
+== Biography
+
+I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2025.
+Previously, I received my Bachelor degree from [https://www.bit.edu.cn/ Beijing Institute of Technology] in 2021,
+and Master of Engineering from [http://www.ustc.edu.cn/ University of Science and Technology of China (USTC)] in 2024.
+
+My research interests include LLM Applications and Computer Architecture.
+
+== News
+Looking for the good news!
+
+== Publications
+- \[C1\] *Yuhan Qin*, Yulong Meng, Haitao Du, Yazhuo Guo, Yi Kang,
+  "[https://ieeexplore.ieee.org/document/10595929 MSCA: Model-Driven Search for Optimal Configuration for SpMM Accelerators]",
+  IEEE International Conference on AI Circuits and Systems (AICAS), 2024.
+
+- \[J1\] Haitao Du, *Yuhan Qin*, Song Chen, Yi Kang,
+  "[https://dl.acm.org/doi/10.1145/3649455 FASA-DRAM: Reducing DRAM Latency with Destructive Activation and Delayed Restoration]",
+  ACM Transactions on Architecture and Code Optimization (TACO), 2024.
+
+
+== Experiences
+- *ChatEDA Lab*, China \n
+  Intern, Sep. 2024 - Now
+

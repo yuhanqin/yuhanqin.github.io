@@ -29,9 +29,21 @@ My research interests include LLM Applications and Computer Architecture.
 Looking for the good news!
 
 == Publications
+- \[C3\] Zhenghao Chen, Yuan Pu, Hairuo Han, Yuntao Nie, Jiajun Qin, *Yuhan Qin*, Tairu Qiu, Zhuolun He, Jianwang Zhai, Bei Yu, Kang Zhao,
+  "MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA",
+  IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+
+- \[C2\] Yazhuo Guo, *Yuhan Qin*, Song Chen, Yi Kang,
+  "[https://ieeexplore.ieee.org/document/10595953 SPVT: Spiked Pyramid Vision Transformer]",
+  IEEE International Conference on AI Circuits and Systems (AICAS), 2024.
+
 - \[C1\] *Yuhan Qin*, Yulong Meng, Haitao Du, Yazhuo Guo, Yi Kang,
   "[https://ieeexplore.ieee.org/document/10595929 MSCA: Model-Driven Search for Optimal Configuration for SpMM Accelerators]",
   IEEE International Conference on AI Circuits and Systems (AICAS), 2024.
+
+- \[J2\] Zhuolun He, Yuan Pu, Haoyuan Wu, *Yuhan Qin*, Tairu Qiu, and Bei Yu,
+  "[https://www.nowpublishers.com/article/Details/EDA-063-2 Large Language Models for EDA: From Assistants to Agents]",
+  Foundations and Trends in Electronic Design Automation, 2025.
 
 - \[J1\] Haitao Du, *Yuhan Qin*, Song Chen, Yi Kang,
   "[https://dl.acm.org/doi/10.1145/3649455 FASA-DRAM: Reducing DRAM Latency with Destructive Activation and Delayed Restoration]",
